@@ -1,5 +1,9 @@
 # Chirp
 
+This project is a continuation of Chris McCord's [tutorial](https://www.youtube.com/watch?v=MZvmYaFkNJI&t=965s)
+
+So far just realtime response for deleting a post has been added on top.
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
